@@ -73,6 +73,13 @@ OS: Windows_NT x64 10.0.19044
 
    <img src="https://user-images.githubusercontent.com/28774023/241395770-06c80da1-8e00-457a-b8b9-029dd99efeba.jpg" alt="个人介绍" style="zoom:50%;" />
    
+5. [波纹-单页UI](https://github.com/speauty/flutter_ui_examples/tree/ripple_map)
+
+   参考视频：[第5天 - Flutter UI 教程 - 涟漪动画效果](https://www.bilibili.com/video/BV1zs4y1g7cD?share_source=copy_web)；
+
+   效果截图：
+
+   <img src="https://user-images.githubusercontent.com/28774023/241397236-cd62d414-d8d3-430c-817e-0f6c69b95525.jpg" alt="波纹" style="zoom:50%;" />
    
 
 
