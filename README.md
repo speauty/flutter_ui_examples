@@ -42,44 +42,26 @@ OS: Windows_NT x64 10.0.19044
 1. [灵感-单页UI](https://github.com/speauty/flutter_ui_examples/tree/single_ui_inspiration)
 
    参考视频：[第1天 - Flutter UI 教程 - 灵感APP UI和动画](https://www.bilibili.com/video/BV1Dk4y1L7YT?share_source=copy_web)；
-
-   效果截图：
-
-   <img src="https://user-images.githubusercontent.com/28774023/241348748-2401391c-811a-4ce2-97c0-7384b1c1f9c0.jpg" alt="灵感" style="zoom:50%;" />
-
+   
 2. [旅行-单页UI](https://github.com/speauty/flutter_ui_examples/tree/single_ui_trip)
 
    参考视频：[第2天 - Flutter UI 教程 - 旅行App UI设计和动画](https://www.bilibili.com/video/BV1Ha4y1u7xP?share_source=copy_web)；
-
-   效果截图：
-
-   <img src="https://user-images.githubusercontent.com/28774023/241350778-8e0d9d25-cc09-463d-a684-b19c94bc41fd.jpg" alt="旅行" style="zoom:50%;" />
 
 3. [外卖-UI](https://github.com/speauty/flutter_ui_examples/tree/takeaway)
 
    参考视频：[第3天 - Flutter UI 教程 - 外卖APP UI和动画](https://www.bilibili.com/video/BV1vg4y1V7qH?share_source=copy_web)；
 
-   效果截图：
-
-   <img src="https://user-images.githubusercontent.com/28774023/241394632-8045ede1-9066-48f5-8295-eb428c5340b6.jpg" alt="外卖" style="zoom:50%;" />
-
-   <img src="https://user-images.githubusercontent.com/28774023/241394641-1064ce36-03cd-4b79-a091-666ce4c70789.jpg" alt="外卖" style="zoom:50%;" />
-
 4. [个人介绍-单页UI](https://github.com/speauty/flutter_ui_examples/tree/personal_profile)
 
    参考视频：[第4天 - Flutter UI 教程 - 个人简介 UI和动画](https://www.bilibili.com/video/BV1xo4y1F7ym?share_source=copy_web)；
-
-   效果截图：
-
-   <img src="https://user-images.githubusercontent.com/28774023/241395770-06c80da1-8e00-457a-b8b9-029dd99efeba.jpg" alt="个人介绍" style="zoom:50%;" />
    
 5. [波纹-单页UI](https://github.com/speauty/flutter_ui_examples/tree/ripple_map)
 
    参考视频：[第5天 - Flutter UI 教程 - 涟漪动画效果](https://www.bilibili.com/video/BV1zs4y1g7cD?share_source=copy_web)；
 
-   效果截图：
+6. [页面变换-UI](https://github.com/speauty/flutter_ui_examples/tree/page_transition)
 
-   <img src="https://user-images.githubusercontent.com/28774023/241397236-cd62d414-d8d3-430c-817e-0f6c69b95525.jpg" alt="波纹" style="zoom:50%;" />
+   参考视频：[第6天 - Flutter UI 教程 - 页面过渡](https://www.bilibili.com/video/BV1Bc411P7GM?share_source=copy_web)；
    
 
 
