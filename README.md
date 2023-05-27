@@ -39,7 +39,7 @@ OS: Windows_NT x64 10.0.19044
 
 ### 相关栗子
 
-1. 灵感-单页UI
+1. [灵感-单页UI](https://github.com/speauty/flutter_ui_examples/tree/single_ui_inspiration)
 
    参考视频：[第1天 - Flutter UI 教程 - 灵感APP UI和动画](https://www.bilibili.com/video/BV1Dk4y1L7YT?share_source=copy_web)；
 
@@ -47,7 +47,7 @@ OS: Windows_NT x64 10.0.19044
 
    <img src="https://user-images.githubusercontent.com/28774023/241348748-2401391c-811a-4ce2-97c0-7384b1c1f9c0.jpg" alt="灵感" style="zoom:50%;" />
 
-2. 旅行-单页UI
+2. [旅行-单页UI](https://github.com/speauty/flutter_ui_examples/tree/single_ui_trip)
 
    参考视频：[第2天 - Flutter UI 教程 - 旅行App UI设计和动画](https://www.bilibili.com/video/BV1Ha4y1u7xP?share_source=copy_web)；
 
