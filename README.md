@@ -39,7 +39,15 @@ OS: Windows_NT x64 10.0.19044
 
 ### 相关栗子
 
-暂无
+1. 灵感-单页UI
+
+   参考视频：[第1天 - Flutter UI 教程 - 灵感APP UI和动画](https://www.bilibili.com/video/BV1Dk4y1L7YT?share_source=copy_web)；
+
+   效果截图：
+
+   <img src="https://user-images.githubusercontent.com/28774023/241348748-2401391c-811a-4ce2-97c0-7384b1c1f9c0.jpg" alt="灵感" style="zoom:50%;" />
+
+2. 
 
 
 
