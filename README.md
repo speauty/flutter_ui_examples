@@ -55,6 +55,16 @@ OS: Windows_NT x64 10.0.19044
 
    <img src="https://user-images.githubusercontent.com/28774023/241350778-8e0d9d25-cc09-463d-a684-b19c94bc41fd.jpg" alt="旅行" style="zoom:50%;" />
 
+2. [外卖-UI](https://github.com/speauty/flutter_ui_examples/tree/takeaway)
+
+   参考视频：[第3天 - Flutter UI 教程 - 外卖APP UI和动画](https://www.bilibili.com/video/BV1vg4y1V7qH?share_source=copy_web)；
+
+   效果截图：
+
+   <img src="https://user-images.githubusercontent.com/28774023/241394632-8045ede1-9066-48f5-8295-eb428c5340b6.jpg" alt="外卖" style="zoom:50%;" />
+
+   <img src="https://user-images.githubusercontent.com/28774023/241394641-1064ce36-03cd-4b79-a091-666ce4c70789.jpg" alt="外卖" style="zoom:50%;" />
+
 
 
 
