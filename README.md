@@ -47,7 +47,13 @@ OS: Windows_NT x64 10.0.19044
 
    <img src="https://user-images.githubusercontent.com/28774023/241348748-2401391c-811a-4ce2-97c0-7384b1c1f9c0.jpg" alt="灵感" style="zoom:50%;" />
 
-2. 
+2. 旅行-单页UI
+
+   参考视频：[第2天 - Flutter UI 教程 - 旅行App UI设计和动画](https://www.bilibili.com/video/BV1Ha4y1u7xP?share_source=copy_web)；
+
+   效果截图：
+
+   <img src="https://user-images.githubusercontent.com/28774023/241350778-8e0d9d25-cc09-463d-a684-b19c94bc41fd.jpg" alt="旅行" style="zoom:50%;" />
 
 
 
