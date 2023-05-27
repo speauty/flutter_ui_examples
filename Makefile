@@ -7,8 +7,8 @@ ex = new_example
 rebaseMaster:
 	git rebase master
 
-newExample:
+new:
 	git checkout -b ${ex}
 
-delExample: # 不主动删除远程分支, 如果需要联动, 单独手动执行: git push origin --delete branch
+del: # 不主动删除远程分支, 如果需要联动, 单独手动执行: git push origin --delete branch
 	git branch --delete ${ex}
