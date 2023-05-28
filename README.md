@@ -65,7 +65,11 @@ OS: Windows_NT x64 10.0.19044
 
 7. [按钮动画-UI](https://github.com/speauty/flutter_ui_examples/tree/button_transition)
 
-   参考视频：[第6天 - Flutter UI 教程 - 页面过渡](https://www.bilibili.com/video/BV1No4y1F7jE?share_source=copy_web)；
+   参考视频：[第7天 - Flutter UI 教程 - 带动画的下载按钮](https://www.bilibili.com/video/BV1No4y1F7jE?share_source=copy_web)；
+
+8. [闪屏登录-UI](https://github.com/speauty/flutter_ui_examples/tree/splash_and_login)
+
+   参考视频：[第8天 - Flutter UI 教程 - 闪屏页和登录 UI 设计](https://www.bilibili.com/video/BV1Mh411w718?share_source=copy_web)；
    
 
 
