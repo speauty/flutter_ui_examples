@@ -75,6 +75,9 @@ OS: Windows_NT x64 10.0.19044
 
    参考视频：[第9天 - Flutter UI 教程 - 派对App的闪屏页](https://www.bilibili.com/video/BV1k24y1K7dv?share_source=copy_web)；
    
+10. [GridView-UI](https://github.com/speauty/flutter_ui_examples/tree/grid_view)
+
+   参考视频：[第10天 - Flutter UI 教程 - 带动画的GridView UI](https://www.bilibili.com/video/BV1ba4y1u7H3?share_source=copy_web)；
 
 
 
