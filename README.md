@@ -79,6 +79,10 @@ OS: Windows_NT x64 10.0.19044
 
    参考视频：[第10天 - Flutter UI 教程 - 带动画的GridView UI](https://www.bilibili.com/video/BV1ba4y1u7H3?share_source=copy_web)；
 
+11. [旅行-UI](https://github.com/speauty/flutter_ui_examples/tree/travel)
+
+   参考视频：[第11天 - Flutter UI 教程 - 旅行App UI 概念](https://www.bilibili.com/video/BV1dV4y1z7x3?share_source=copy_web)；
+
 
 
 
