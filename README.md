@@ -83,6 +83,10 @@ OS: Windows_NT x64 10.0.19044
 
    参考视频：[第11天 - Flutter UI 教程 - 旅行App UI 概念](https://www.bilibili.com/video/BV1dV4y1z7x3?share_source=copy_web)；
 
+12. [登录-UI](https://github.com/speauty/flutter_ui_examples/tree/login)
+
+   参考视频：[第12天 - Flutter UI 教程 - 登录页面 UI及动画（一）](https://www.bilibili.com/video/BV1No4y1G78D?share_source=copy_web)；
+
 
 
 
